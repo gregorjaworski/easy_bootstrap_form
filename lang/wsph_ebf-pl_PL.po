@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Bootstrap Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue May 10 2016 22:48:19 GMT+0200 (Europa Zachodnia (czas "
+"stand.))\n"
+"PO-Revision-Date: Thu May 12 2016 21:10:08 GMT+0200 (Europa Zachodnia (czas "
+"stand.))\n"
+"Last-Translator: tester_wp <webmaster@grzegorzjaworski.de>\n"
+"Language-Team: \n"
+"Language: Polish\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: pl_PL\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Description of the plugin
+msgid "Wtyczka generujca formularze Bootstrap i z walidacja Ajax"
+msgstr "Wtyczka generujca formularze Bootstrap i z walidacja Ajax"
+
+#: ../inc/class/Send.php:39
+#, php-format
+msgid "Message from <b>%1s</b><br>"
+msgstr "Wiadomość od <b>%1s</b><br>"
+
+#: ../inc/class/Send.php:42
+#, php-format
+msgid "Email: <b>%1s</b><br>"
+msgstr "E-mail: <b>%1s</b><br>"
+
+#: ../inc/class/Send.php:45
+#, php-format
+msgid "Phone: <b>%1s</b><br>"
+msgstr "Telefon: <b>%1s</b><br>"
+
+#: ../easy-bootstrap-form.php:69 ../inc/class/Config.php:28
+msgid "Please enter name or surname"
+msgstr "Proszę podać swoje imię lub nazwisko"
+
+#: ../easy-bootstrap-form.php:70 ../inc/class/Config.php:29
+msgid "In this field are allowed only letters and the sign \"-\""
+msgstr "W tym polu dozwolone są tylko litery i znak \"-\""
+
+#: ../easy-bootstrap-form.php:71 ../inc/class/Config.php:30
+msgid "Please enter e-mail or phone number"
+msgstr "Proszę podać swój e-mail lub nr telefonu"
+
+#: ../easy-bootstrap-form.php:72 ../inc/class/Config.php:31
+msgid "Please enter a valid email address"
+msgstr "Proszę podać poprawny adres email"
+
+#: ../easy-bootstrap-form.php:73 ../inc/class/Config.php:32
+msgid "Please enter a phone number in the format \"012345678\" or \"+4812345678\""
+msgstr "Proszę podać nr tel. w formacie \"012345678\" or \"+4812345678\""
+
+#: ../easy-bootstrap-form.php:74 ../inc/class/Config.php:33
+msgid "Please write a few words, how can I help you"
+msgstr "Proszę napisać kilka słów jak mogę Państwu pomóc"
+
+#: ../views/site/front_contact_form.php:11 ../inc/eas-bootstrap-form.php:66 ..
+#: inc/index.php:16 ../inc/class/Form.php:22
+msgid "Type Your name"
+msgstr "Podaj swoje imię"
+
+#: ../views/site/front_contact_form.php:20 ../inc/eas-bootstrap-form.php:75 ..
+#: inc/index.php:25 ../inc/class/Form.php:22
+msgid "Your email..."
+msgstr "E-mail..."
+
+#: ../views/site/front_contact_form.php:28 ../inc/eas-bootstrap-form.php:83 ..
+#: inc/index.php:33 ../inc/class/Form.php:22
+msgid "...or phone number"
+msgstr "...lub numer tel."
+
+#: ../views/site/front_contact_form.php:36 ../inc/eas-bootstrap-form.php:91 ..
+#: inc/index.php:41 ../inc/class/Form.php:22
+msgid "Messege"
+msgstr "Wiadomość"
+
+#: ../views/site/front_contact_form.php:41 ../inc/eas-bootstrap-form.php:96 ..
+#: inc/index.php:46 ../inc/class/Form.php:22
+msgid "Send"
+msgstr "Wyślij"
+
+#: ../inc/class/Form.php:22
+msgid "Chętnie odpowiem na Państwa pytanie."
+msgstr "Chętnie odpowiem na Państwa pytanie."
